@@ -1,0 +1,14 @@
+{
+  "id": 101,
+  "name": "Pooja Patel",
+  "role": "Senior Frontend Engineer",
+  "location": "Ahmedabad, India",
+  "active": true,
+  "experience": 5,
+  "skills": ["Angular", "TypeScript", "SCSS", "Testing"],
+  "profile": {
+    "team": "Platform",
+    "availability": "Open to opportunities",
+    "favoriteStack": ["Angular", "RxJS", "Signals"]
+  }
+}

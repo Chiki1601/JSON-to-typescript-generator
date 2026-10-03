@@ -1,0 +1,33 @@
+{
+  "company": "Acme Ventures",
+  "founded": 2014,
+  "headquarters": "San Francisco",
+  "departments": [
+    {
+      "name": "Engineering",
+      "teams": [
+        {
+          "name": "Platform",
+          "members": 18,
+          "lead": "Aisha"
+        },
+        {
+          "name": "Frontend",
+          "members": 12,
+          "lead": "Mina"
+        }
+      ]
+    },
+    {
+      "name": "Design",
+      "teams": [
+        {
+          "name": "UX Research",
+          "members": 6,
+          "lead": "Rohan"
+        }
+      ]
+    }
+  ],
+  "status": "growing"
+}

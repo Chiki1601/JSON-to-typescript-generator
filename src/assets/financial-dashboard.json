@@ -1,0 +1,16 @@
+{
+  "company": "Northwind Labs",
+  "reportDate": "2026-09-30",
+  "currency": "USD",
+  "summary": {
+    "revenue": 1842500,
+    "expenses": 971200,
+    "profit": 871300,
+    "margin": 47.3
+  },
+  "kpis": [
+    { "name": "MRR", "value": 321200, "trend": "up" },
+    { "name": "CAC", "value": 8900, "trend": "down" },
+    { "name": "Churn", "value": 2.1, "trend": "stable" }
+  ]
+}

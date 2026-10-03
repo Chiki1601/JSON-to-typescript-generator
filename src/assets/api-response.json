@@ -1,0 +1,19 @@
+{
+  "status": "success",
+  "timestamp": "2026-10-02T10:30:00.000Z",
+  "requestId": "req-88ha",
+  "data": {
+    "items": [
+      { "id": 1, "name": "Alfa", "active": true },
+      { "id": 2, "name": "Bravo", "active": false },
+      { "id": 3, "name": "Charlie", "active": true }
+    ],
+    "total": 3,
+    "page": 1,
+    "pageSize": 10
+  },
+  "meta": {
+    "version": "v1.0.0",
+    "source": "local-sample"
+  }
+}

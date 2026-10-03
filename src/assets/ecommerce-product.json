@@ -1,0 +1,14 @@
+{
+  "id": "prod-201",
+  "name": "JSONPilot Pro",
+  "category": "Developer Tool",
+  "price": 49,
+  "rating": 4.8,
+  "inStock": true,
+  "inventory": 128,
+  "tags": ["json", "validation", "typescript", "analytics"],
+  "variants": [
+    { "sku": "jp-pro-01", "color": "Blue", "size": "M", "stock": 52 },
+    { "sku": "jp-pro-02", "color": "Slate", "size": "L", "stock": 37 }
+  ]
+}
